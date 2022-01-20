@@ -1,2 +1,2 @@
 # crypto-block
-My crypto &amp; blockchain projects
+My crypto &amp; blockchain project
